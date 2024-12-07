@@ -1,6 +1,6 @@
-# Client-to-Client VPN Setup Using OpenVPN Access Server on AWS
+# Client VPN Setup Using OpenVPN Access Server on AWS
 
-This guide provides step-by-step instructions to set up a client-to-client VPN on AWS using OpenVPN Access Server.
+This guide provides step-by-step instructions to set up a client VPN on AWS using OpenVPN Access Server.
 
 ---
 
