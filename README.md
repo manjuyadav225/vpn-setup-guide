@@ -1,7 +1,6 @@
 # Client VPN Setup Using OpenVPN Access Server on AWS
 
-This guide provides step-by-step instructions to set up a client VPN on AWS using OpenVPN Access Server.
-
+This guide provides step-by-step instructions to set up Client VPN in AWS which is a managed service that allows you to create a VPN endpoint (VPN server) that users can connect to from their devices using an OpenVPN-based client. 
 ---
 
 ## Prerequisites
@@ -83,7 +82,7 @@ For more details, refer to the [official documentation](https://openvpn.net/as-d
 ---
 
 ## Cleanup
-1. If no longer needed, stop or terminate the EC2 instance to avoid incurring charges.
+1. If no longer needed, terminate the EC2 instance to avoid incurring charges.
 
 ---
 
